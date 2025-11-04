@@ -1,5 +1,6 @@
 Вычислите с использованием цикла for значение ряда для заданного значения x
-<img width="1788" height="3331" alt="deepseek_mermaid_20251104_611a32 (1)" src="https://github.com/user-attachments/assets/866a4e73-f196-48fd-8f23-57ceae7c3609" />
+
+<img width="1884" height="3444" alt="image" src="https://github.com/user-attachments/assets/7a508fa4-2e94-473d-aaa3-b5d98e84c545" />
 
 # Lab-8
 #define _CRT_SECURE_NO_WARNINGS
